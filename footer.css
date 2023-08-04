@@ -1,0 +1,35 @@
+
+
+footer .brand{
+    font-family: var(--lg-font);
+    letter-spacing: 2px;
+    }
+    footer a{
+    transition: color 0.3s ease;
+    }
+    footer a:hover{
+    color: blue;
+    }
+    .bg-primary{
+        background-color:blue !important ;
+    }
+ .btn:not(.nav-btns button){
+        background-color: #fff;
+        color: rgb(05,05 ,05 );
+        padding: 10px 25px;
+        border-radius: 25px;
+        border: 1px solid rgb(05, 05,05 );
+    }
+    .btn:not(.nav-btns button):hover{
+        background-color: navy;
+        color: #fff;
+        border-color: black;
+    }
+    #button12{
+        background-color: rgb(43, 159, 212);
+        color: bisque;
+        border-radius: 0%;
+        box-sizing: border-box;
+        border: none;
+    text-align: center;
+    }
